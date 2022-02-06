@@ -7,7 +7,8 @@ The above link contains the following files:
 3. script_psdmf_functions.m (used by run_demo_psdmf.m to run the algorithms you choose in run_demo_psdmf.m)
 4. script_draw_plots.m (figures for output of run_demo_psdmf.m)
 5. psdmf_init.m (generate pseudorandom factors according to the PSDMF model)
-6. ReadMe.txt
+6. psdmfgen.m
+7. ReadMe.txt
 
 If you use this code, please cite:
 1. D. Lahat, Y. Lang, V. Y. F. Tan and C. Févotte, "Positive Semidefinite Matrix Factorization: A Connection With Phase Retrieval and Affine Rank Minimization," in IEEE Transactions on Signal Processing, vol. 69, pp. 3059-3074, 2021, doi: 10.1109/TSP.2021.3071293
